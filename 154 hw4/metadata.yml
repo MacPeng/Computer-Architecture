@@ -1,0 +1,14 @@
+---
+:id: 67292057
+:submitters:
+- :name: Yihe Liu
+  :email: wqqliu@ucdavis.edu
+- :name: Yiming Peng
+  :email: macpeng@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-02-28 21:43:47.989411000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-28 13:43:47.989411000 Z
+:status: processed
+:score: 100.0

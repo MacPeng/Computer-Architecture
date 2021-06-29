@@ -1,0 +1,14 @@
+---
+:id: 60812382
+:submitters:
+- :name: Yiming Peng
+  :email: macpeng@ucdavis.edu
+- :name: Jason Wu
+  :email: jazwu@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-01-20 05:30:23.392520000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-01-19 21:30:23.392520000 Z
+:status: processed
+:score: 100.0
