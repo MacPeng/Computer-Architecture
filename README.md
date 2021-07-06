@@ -1,6 +1,5 @@
 # Computer-Architecture
 *Design Combinational Circuits to solve problems
-
 *Be able to simplify combinational circuits of up to 5 variables using Kmaps
 Design Sequential Circuits to Solve Problems
 Be able to solve problems using both Moore and Mealy Designs
